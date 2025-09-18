@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jaredliverpool/threat-hunting-scenario-tor/tree/main)**
--  **[Threat Hunting Scenario (Firefox Browser Usage)](https://github.com/jaredliverpool/threat-hunting-scenario-tor/tree/main)**
+-  **[Threat Hunting Scenario (Firefox Browser Usage)](https://github.com/jaredliverpool/threat-hunting-scenario-firefox)**
 
 <hr/>
 
