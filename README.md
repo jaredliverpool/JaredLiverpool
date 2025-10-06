@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔎 From Login to Flag: Practical Web Request Reproduction
 
-- **[How Browsers Use GET)](https://github.com/jaredliverpool/browser-default-get)**
+- **[How Browsers Use GET](https://github.com/jaredliverpool/browser-default-get)**
 
 <hr/>
 
