@@ -13,6 +13,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jaredliverpool/threat-hunting-scenario-tor/tree/main)**
 -  **[Threat Hunting Scenario (Firefox Browser Usage)](https://github.com/jaredliverpool/threat-hunting-scenario-firefox)**
 
+## 🔎 From Login to Flag: Practical Web Request Reproduction
+
+- **[How Browsers Use GET)](https://github.com/jaredliverpool/browser-default-get)**
+
 <hr/>
 
 ## 🤳 Connect With Me
