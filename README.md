@@ -1,7 +1,9 @@
 # <a href="https://www.linkedin.com/in/jaredliverpool/">jaredliverpool</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity professional and aspiring Network Engineer currently studying for the Cisco Certified Network Associate (CCNA), with hands-on experience in Cisco Packet Tracer and real-world exposure to security operations, vulnerability management, and network defense. Skilled in troubleshooting, network segmentation, and threat detection, with a strong foundation in both networking and cybersecurity principles.
 
+## 🛠 Packet Tracer Labs
+- **[Variable Length Subnet Masks](https://github.com/jaredliverpool/Variable-Length-Subnet-Masks/edit/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
