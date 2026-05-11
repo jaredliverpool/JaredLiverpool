@@ -5,7 +5,7 @@ Cybersecurity professional and aspiring Network Engineer currently studying for 
 ## 🛠 Packet Tracer Labs
 - **[Variable Length Subnet Masks](https://github.com/jaredliverpool/Variable-Length-Subnet-Masks/edit/main/README.md)**
 - **[Inter-VLAN Routing Using ROAS](https://github.com/jaredliverpool/Inter-VLAN-Routing-using-ROAS/edit/main/README.md)**
-- **[OSPF-Part-1]([https://github.com/jaredliverpool/OSPF-Part-1](https://github.com/jaredliverpool/OSPF-Part-1/blob/main/README.md))**
+- **[OSPF-Part-1]([https://github.com/jaredliverpool/OSPF-Part-1](https://github.com/jaredliverpool/OSPF-Part-1/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
